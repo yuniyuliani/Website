@@ -1,0 +1,14 @@
+.carousel .carousel-indicators button {
+ width: 15px;
+ height: 15px;
+ border-radius: 50%;
+
+}
+
+/* .carousel .carousel-control-next-icon {
+    background-image: url(./images/arrow-right-line.png);
+}
+
+.carousel .carousel-control-prev-icon {
+    background-image: url(./images/arrow-left-line.png);
+} */
